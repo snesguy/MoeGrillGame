@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Bots\Assets\_Scripts\PopulateScrollList.js">
+    <Files>
+      <File FileName="..\..\..\Bots\Assets\_Scripts\ListElementData.js" Line="31" Column="3" />
+      <File FileName="..\..\..\Bots\Assets\_Scripts\PopulateScrollList.js" Line="46" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
