@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Bots\c_ni5QcG8r3565eJe5afGb\trunk\BOTS\Assets\_Scripts\DataManager.js">
+    <Files>
+      <File FileName="..\..\..\Bots\c_ni5QcG8r3565eJe5afGb\trunk\BOTS\Assets\_Scripts\PopulateScrollList.js" Line="62" Column="4" />
+      <File FileName="..\..\..\Bots\c_ni5QcG8r3565eJe5afGb\trunk\BOTS\Assets\_Scripts\DataManager.js" Line="427" Column="25" />
+      <File FileName="..\..\..\Bots\c_ni5QcG8r3565eJe5afGb\trunk\BOTS\Assets\_Scripts\Bot.js" Line="410" Column="16" />
+      <File FileName="..\..\..\Bots\c_ni5QcG8r3565eJe5afGb\trunk\BOTS\Assets\_Scripts\ListElementData.js" Line="42" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
